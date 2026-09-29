@@ -1,0 +1,11 @@
+{
+  "sweep": "s04_letters",
+  "checked": 456976,
+  "candidate_free": 444773,
+  "registered": 11564,
+  "timeout": 13,
+  "other": 626,
+  "seconds": 483.7,
+  "rate_per_sec": 944.7,
+  "finished": "2026-09-29T10:46:40Z"
+}

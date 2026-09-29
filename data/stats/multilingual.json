@@ -1,0 +1,12 @@
+{
+  "sweep": "multilingual",
+  "checked": 249935,
+  "candidate_free": 215122,
+  "registered": 33157,
+  "timeout": 45,
+  "other": 0,
+  "servfail_registered_broken_dns": 1611,
+  "seconds": 288.8,
+  "rate_per_sec": 865.5,
+  "finished": "2026-09-29T11:01:23Z"
+}

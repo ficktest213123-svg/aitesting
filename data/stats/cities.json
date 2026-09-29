@@ -1,0 +1,12 @@
+{
+  "sweep": "cities",
+  "checked": 6225,
+  "candidate_free": 5462,
+  "registered": 729,
+  "timeout": 1,
+  "other": 0,
+  "servfail_registered_broken_dns": 33,
+  "seconds": 13.1,
+  "rate_per_sec": 476.7,
+  "finished": "2026-09-29T10:53:32Z"
+}

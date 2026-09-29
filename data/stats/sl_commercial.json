@@ -1,0 +1,12 @@
+{
+  "sweep": "sl_commercial",
+  "checked": 426,
+  "candidate_free": 107,
+  "registered": 280,
+  "timeout": 3,
+  "other": 0,
+  "servfail_registered_broken_dns": 36,
+  "seconds": 7.1,
+  "rate_per_sec": 60.1,
+  "finished": "2026-09-29T10:53:58Z"
+}

@@ -1,0 +1,12 @@
+{
+  "sweep": "sl_nouns",
+  "checked": 43334,
+  "candidate_free": 36404,
+  "registered": 6369,
+  "timeout": 15,
+  "other": 0,
+  "servfail_registered_broken_dns": 546,
+  "seconds": 67.4,
+  "rate_per_sec": 643.4,
+  "finished": "2026-09-29T10:51:02Z"
+}

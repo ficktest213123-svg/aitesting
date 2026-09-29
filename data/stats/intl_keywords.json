@@ -1,0 +1,12 @@
+{
+  "sweep": "intl_keywords",
+  "checked": 600,
+  "candidate_free": 27,
+  "registered": 555,
+  "timeout": 1,
+  "other": 0,
+  "servfail_registered_broken_dns": 17,
+  "seconds": 6.9,
+  "rate_per_sec": 87.4,
+  "finished": "2026-09-29T10:53:51Z"
+}

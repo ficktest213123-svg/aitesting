@@ -1,0 +1,12 @@
+{
+  "sweep": "en_freq",
+  "checked": 38587,
+  "candidate_free": 16565,
+  "registered": 21238,
+  "timeout": 19,
+  "other": 0,
+  "servfail_registered_broken_dns": 765,
+  "seconds": 74.7,
+  "rate_per_sec": 516.8,
+  "finished": "2026-09-29T10:53:18Z"
+}

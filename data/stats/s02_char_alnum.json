@@ -1,0 +1,11 @@
+{
+  "sweep": "s02_char_alnum",
+  "checked": 1296,
+  "candidate_free": 89,
+  "registered": 1119,
+  "timeout": 3,
+  "other": 85,
+  "seconds": 6.5,
+  "rate_per_sec": 199.9,
+  "finished": "2026-09-29T10:37:36Z"
+}

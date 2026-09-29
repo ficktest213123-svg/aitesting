@@ -1,0 +1,6 @@
+data/wordlists/
+data/raw/
+data/retry/
+data/other/
+__pycache__/
+*.pyc
